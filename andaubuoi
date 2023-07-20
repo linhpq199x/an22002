@@ -126,10 +126,10 @@ _G.ConfigMain = {
     ["Auto Buddy Swords"] = false,
     ["Auto Buddy Swords HOP"] = false,
 
-    ["Auto Farm Bone"] = false,
-    ["Auto Hallow Scythe"] = false,
-    ["Auto Farm Soul Reaper"] = false,
-    ["Auto Random bone"] = false,
+    ["Auto Farm Bone"] = true,
+    ["Auto Hallow Scythe"] = true,
+    ["Auto Farm Soul Reaper"] = true,
+    ["Auto Random bone"] = true,
 
     ["Auto Farm Cake Prince"] = true,
 
